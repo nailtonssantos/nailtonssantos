@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&color=FF0F4A&center=true&vCenter=true&lines=Hi+there!+My+name+is+Nailton!;Welcome+to+my+GitHub+profile;Nice+to+meet+you!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&color=FGGF4A&center=true&vCenter=true&lines=Hi+there!+My+name+is+Nailton!;Welcome+to+my+GitHub+profile;Nice+to+meet+you!)](https://git.io/typing-svg)
 
 <p align="left">
   Connect with me:
@@ -22,10 +22,10 @@
   <br><br>
   
 <p align="justify">
-Atuo com Tecnologia desde os 17 anos, mais especificamente como desenvolvedor backend desde os 23 anos, e esse sempre foi meu objetivo profissional e pessoal. Atuando no backend, desenvolvi sistemas desktops, e atualmente aplicando também em sistemas web. Tenho facilidade em me adaptar às situações, sou aventureiro e flexível, por isso, no começo de 2021 comecei a atuar com NodeJS; Gosto de estudar, estar sempre aprendendo, inovando.  Hoje, com foco em API REST, me sinto apaixonado pelo que faço e sou reconhecido pelo meu empenho em resolver os problemas. 
-
-Nesses anos de experiência desenvolvi projetos Backend, principalmente sistemas web. Possuo conhecimento em Javascript, NodeJS, ExpressJS, GIT e SQL.
-  </p>
+Atuo com Tecnologia desde os 18 anos, onde fui instrutor de informática, posteriormente TI, iniciei a faculdade de sistemas onde atuei com PHP, Banco de Dados e Java, conciliando com o trabalho, nos cursos que eu era responsável. 
+Comecei a atuar como desenvolvedor web aos 23 anos, e esse sempre foi meu objetivo profissional e pessoal. 
+Atualmente meu foco é o Backend, mas também possuo habilidades de Frontend. Desenvolvi alguns sistemas web com NodeJS; Tenho me atualizado com foco em API REST, MVC, Javascript, React, Typescript. Me me sinto apaixonado pelo que faço, e não me vejo fazendo outra coisa.
+</p>
  
 
 📚 O maior sucesso é feito da liberdade de fracassar. Mark Zuckerberg
