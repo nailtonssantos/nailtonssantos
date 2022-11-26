@@ -24,11 +24,11 @@
 <p align="justify">
 Atuo com Tecnologia desde os 18 anos, onde fui instrutor de informática, posteriormente TI, iniciei a faculdade de sistemas onde atuei com PHP, Banco de Dados e Java, conciliando com o trabalho, nos cursos que eu era responsável. 
 Comecei a atuar como desenvolvedor web aos 23 anos, e esse sempre foi meu objetivo profissional e pessoal. 
-Atualmente meu foco é o Backend, mas também possuo habilidades de Frontend. Desenvolvi alguns sistemas web com NodeJS; Tenho me atualizado com foco em API REST, MVC, Javascript, React, Typescript. Me me sinto apaixonado pelo que faço, e não me vejo fazendo outra coisa.
+Atualmente meu foco é o Backend, mas também possuo habilidades de Frontend. Desenvolvi alguns sistemas web com NodeJS; Tenho me atualizado com foco em API REST e MVC com Java, Javascript, Typescript. Me me sinto apaixonado pelo que faço, e não me vejo fazendo outra coisa.
 </p>
  
 
-📚 O maior sucesso é feito da liberdade de fracassar. Mark Zuckerberg
+📚 "Não faz sentido olhar para trás e pensar: devia ter feito isso ou aquilo, devia ter estado lá. Isso não importa. Vamos inventar o amanhã e parar de nos preocupar com o passado. Steve Jobs 
 </div>
 
   <br>
@@ -37,6 +37,7 @@ Atualmente meu foco é o Backend, mas também possuo habilidades de Frontend. De
 
 ## 🛠 &nbsp;Tech Stack
 
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=javas)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Node](https://img.shields.io/badge/-Node-05122A?style=flat&logo=node.js)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
