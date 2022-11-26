@@ -42,7 +42,7 @@ Atualmente meu foco é o Backend, mas também possuo habilidades de Frontend. De
 ![Node](https://img.shields.io/badge/-Node-05122A?style=flat&logo=node.js)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Java]([https://img.shields.io/badge/-Java-05122A?style=flat&logo=java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white))&nbsp;
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)&nbsp;
 
 
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
