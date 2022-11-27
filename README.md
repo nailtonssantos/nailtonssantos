@@ -28,7 +28,7 @@ Atualmente meu foco é o Backend, mas também possuo habilidades de Frontend. De
 </p>
  
 
-📚 "Não faz sentido olhar para trás e pensar: devia ter feito isso ou aquilo, devia ter estado lá. Isso não importa. Vamos inventar o amanhã e parar de nos preocupar com o passado. Steve Jobs 
+📚 "Não faz sentido olhar para trás e pensar: devia ter feito isso ou aquilo, devia ter estado lá. Isso não importa. Vamos inventar o amanhã e parar de nos preocupar com o passado" Steve Jobs 
 </div>
 
   <br>
@@ -38,7 +38,6 @@ Atualmente meu foco é o Backend, mas também possuo habilidades de Frontend. De
 ## 🛠 &nbsp;Tech Stack
 
 ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=java)&nbsp;
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Node](https://img.shields.io/badge/-Node-05122A?style=flat&logo=node.js)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
