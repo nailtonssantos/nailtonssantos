@@ -1,4 +1,4 @@
-<p align="center"&color="green">
+<p align="center" color=green>
   
 ## Hello! I'm Nailton Silva. Wellcome to my Github Profile!
 
@@ -17,7 +17,7 @@
 <br>
   
 <p align="left">
-  ##Connect with me:
+  ## Connect with me:
   <a href="https://www.linkedin.com/in/nailtonssantos/" target="_blank">
     <img align="center" src="https://img.shields.io/badge/-Nailtonssantos-05122A?style=flat&logo=linkedin" alt="linkedin"/>
   </a>
