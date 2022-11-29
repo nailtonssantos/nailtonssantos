@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&color=075415&center=true&vCenter=true&lines=     Hi!+Welcome+to+Nailton's+GitHub+profile!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&margin-left=30&color=075415&center=true&vCenter=true&lines=Hi!+Welcome+to+Nailton's+GitHub+profile!)](https://git.io/typing-svg)
 
 
 ## ⚙️ &nbsp;GitHub Analytics
@@ -57,6 +57,7 @@ Atualmente meu foco é o Backend, mas também possuo habilidades de Frontend. De
 ## 🛠 &nbsp;Tech Stack
 
 ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=java)&nbsp;
+![Java-Teste](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Node](https://img.shields.io/badge/-Node-05122A?style=flat&logo=node.js)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
