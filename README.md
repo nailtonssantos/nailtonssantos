@@ -1,4 +1,21 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&color=075415&center=true&vCenter=true&lines=Hi+there!+My+name+is+Nailton!;Welcome+to+my+GitHub+profile!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&color=075415&center=true&vCenter=true&lines=Hi!+Welcome+to+Nailton's+GitHub+profile!)](https://git.io/typing-svg)
+
+
+## ⚙️ &nbsp;GitHub Analytics
+
+<div align="center">
+  <a href="https://github.com/nailtonssantos">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nailtonssantos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nailtonssantos&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+  
+<div style="display: inline_block"><br>
+  <img align="center" alt="Nailton-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
+  <img align="center" alt="Nailton-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Nailton-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Nailton-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Nailton-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</div>
 
 <p align="left">
   Connect with me:
@@ -17,7 +34,7 @@
 
 <div align="center">
 
-  <img width="70%" height="70%" src="https://camo.githubusercontent.com/fa73289736064aba480d0708da37d7aa183a8c3e2bcc2f58c54285a3bbbeecc1/68747470733a2f2f7777772e61616c7068612e6e65742f77702d636f6e74656e742f75706c6f6164732f323032302f31322f66756c6c2d737461636b2d646576656c6f706d656e742e676966"/>
+  <img width="50%" height="50%" src="https://camo.githubusercontent.com/fa73289736064aba480d0708da37d7aa183a8c3e2bcc2f58c54285a3bbbeecc1/68747470733a2f2f7777772e61616c7068612e6e65742f77702d636f6e74656e742f75706c6f6164732f323032302f31322f66756c6c2d737461636b2d646576656c6f706d656e742e676966"/>
 
   <br><br>
   
@@ -51,10 +68,4 @@ Atualmente meu foco é o Backend, mas também possuo habilidades de Frontend. De
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)
 
 <br>
-
-## ⚙️ &nbsp;GitHub Analytics
-
-<div align="center">
-  <a href="https://github.com/acn3to">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nailtonssantos&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nailtonssantos&layout=compact&langs_count=7&theme=midnight-purple"/>
-</div>
+  
