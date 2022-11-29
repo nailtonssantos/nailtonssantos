@@ -1,6 +1,6 @@
 <p align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&text-align=center&color=075415&center=true&vCenter=true&lines=Hello!+I'm+Nailton+Silva+Welcome+to+my+GitHub+profile!)](https://git.io/typing-svg)
+## Hello! I'm Nailton Silva. Wellcome to my Github Profile!
 
 </p>
 
