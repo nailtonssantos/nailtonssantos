@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&margin-left=30&color=075415&center=true&vCenter=true&lines=Hi!+Welcome+to+Nailton's+GitHub+profile!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&text-align=center&color=075415&center=true&vCenter=true&lines=Hi!+Welcome+to+Nailton's+GitHub+profile!)](https://git.io/typing-svg)
 
 
 ## ⚙️ &nbsp;GitHub Analytics
