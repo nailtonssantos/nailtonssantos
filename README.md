@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&color=075415&center=true&vCenter=true&lines=Hi!+Welcome+to+Nailton's+GitHub+profile!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&color=075415&center=true&vCenter=true&lines=     Hi!+Welcome+to+Nailton's+GitHub+profile!)](https://git.io/typing-svg)
 
 
 ## ⚙️ &nbsp;GitHub Analytics
@@ -8,7 +8,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nailtonssantos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nailtonssantos&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-  
+ 
 <div style="display: inline_block"><br>
   <img align="center" alt="Nailton-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
   <img align="center" alt="Nailton-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -17,6 +17,8 @@
   <img align="center" alt="Nailton-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 
+<br>
+  
 <p align="left">
   Connect with me:
   <a href="https://www.linkedin.com/in/nailtonssantos/" target="_blank">
@@ -63,9 +65,11 @@ Atualmente meu foco é o Backend, mas também possuo habilidades de Frontend. De
 
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
 
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=Postgresql)
 
 <br>
   
