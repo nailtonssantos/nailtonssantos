@@ -40,7 +40,7 @@
 <p align="justify">
 Atuo com Tecnologia desde os 18 anos, onde fui instrutor de informática, posteriormente TI, iniciei a faculdade de sistemas onde atuei com PHP, Banco de Dados e Java, conciliando com o trabalho, nos cursos que eu era responsável. 
 Comecei a atuar como desenvolvedor web aos 23 anos, e esse sempre foi meu objetivo profissional e pessoal. 
-Atualmente meu foco é o Backend, mas também possuo habilidades de Frontend. Desenvolvi alguns sistemas web com NodeJS; Tenho me atualizado com foco em API REST e MVC com Java, Javascript, Typescript. Me me sinto apaixonado pelo que faço, e não me vejo fazendo outra coisa.
+Atualmente meu foco é o Backend, mas também possuo habilidades de Frontend. Desenvolvi alguns sistemas com NodeJS, Java ,Javascript e Wordpress; Atualmente meu foco é desenvolver APIs REST com SpringBoot ou NodeJS. Me me sinto apaixonado pelo que faço, e não me vejo fazendo outra coisa.
 </p>
  
 
