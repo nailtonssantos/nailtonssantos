@@ -53,7 +53,7 @@ Atualmente meu foco é o Backend, mas também possuo habilidades de Frontend. De
 
 ## 🛠 &nbsp;Tech Stack
 
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=CoffeeScript))&nbsp;
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=CoffeeScript)&nbsp;
 ![SpringBoot](https://img.shields.io/badge/-SpringBoot-05122A?style=flat&logo=springboot)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Node](https://img.shields.io/badge/-Node-05122A?style=flat&logo=node.js)&nbsp;
