@@ -33,18 +33,17 @@
 
 <div align="center">
 
-<img width="50%" height="50%" src="https://camo.githubusercontent.com/fa73289736064aba480d0708da37d7aa183a8c3e2bcc2f58c54285a3bbbeecc1/68747470733a2f2f7777772e61616c7068612e6e65742f77702d636f6e74656e742f75706c6f6164732f323032302f31322f66756c6c2d737461636b2d646576656c6f706d656e742e676966"/>
+<img width="50%" height="50%" src="https://raw.githubusercontent.com/Giphy/GiphyAPI/master/api_giphy_header.gif"/>
 
 <br><br>
-  
 <p align="justify">
-Atuo com Tecnologia desde os 18 anos, onde fui instrutor de informática, posteriormente TI, iniciei a faculdade de sistemas onde atuei com PHP, Banco de Dados e Java, conciliando com o trabalho, nos cursos que eu era responsável. 
-Comecei a atuar como desenvolvedor web aos 23 anos, e esse sempre foi meu objetivo profissional e pessoal. 
-Atualmente meu foco é o Backend, mas também possuo habilidades de Frontend. Desenvolvi alguns sistemas com NodeJS, Java ,Javascript e Wordpress; Atualmente meu foco é desenvolver APIs REST com SpringBoot ou NodeJS. Me me sinto apaixonado pelo que faço, e não me vejo fazendo outra coisa.
+    📚 "Eu nunca perco. Ou eu ganho, ou aprendo." - Nelson Mandela
 </p>
  
+<p align="justify">
 
-📚 "Não faz sentido olhar para trás e pensar: devia ter feito isso ou aquilo, devia ter estado lá. Isso não importa. Vamos inventar o amanhã e parar de nos preocupar com o passado" Steve Jobs 
+Meu início profissional na tecnologia foi como instrutor de informática, posteriormente TI, sou formado em Análise e Desenvolvimento de Sistemas. Já trabalhei com PHP, Mysql, PostgreSQL, Java, HTML, CSS, Redes, Windows Server. Minha atuação como desenvolvedor FullStack começou em 2021 no desenvolvimento do sistema da Escola Rondon, onde trabalhei com HTML, CSS, SASS, Bootstrap, Javascript, NodeJS, MongoDB e MySQL. Meu foco atual é o Backend com Java e Spring Boot, mas também posso atuar com NodeJS, além de ter  habilidades com Frontend: Javascript, Angular, Bootstrap, React. Me me sinto apaixonado pelo que faço, e não me vejo fazendo outra coisa.
+</p>
 </div>
 
   <br>
@@ -63,13 +62,13 @@ Atualmente meu foco é o Backend, mas também possuo habilidades de Frontend. De
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=1572B6)&nbsp;
 
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
 
-![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=Postgresql)
-
+![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)
+  
 <br>
   
