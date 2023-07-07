@@ -39,7 +39,7 @@
 <p align="justify">
 📚 "Eu nunca perco. Ou eu ganho, ou aprendo." - Nelson Mandela
 
-Meu início profissional na tecnologia foi como instrutor de informática, posteriormente TI, sou formado em Análise e Desenvolvimento de Sistemas. Já trabalhei com PHP, Mysql, PostgreSQL, Java, HTML, CSS, Redes, Windows Server. Minha atuação como desenvolvedor FullStack começou em 2021 no desenvolvimento do sistema da Escola Rondon, onde trabalhei com HTML, CSS, SASS, Bootstrap, Javascript, NodeJS, MongoDB e MySQL. Meu foco atual é o Backend com Java e Spring Boot, mas também posso atuar com NodeJS, além de ter  habilidades com Frontend: Javascript, Angular, Bootstrap, React. Me me sinto apaixonado pelo que faço, e não me vejo fazendo outra coisa.
+Meu início profissional na tecnologia foi como instrutor de informática, posteriormente TI, sou formado em Análise e Desenvolvimento de Sistemas, pós-graduado em Segurança da Informação. Como instrutor e TI já trabalhei com PHP, Mysql, PostgreSQL, Java, HTML, CSS, Redes, Windows Server. Em 2021 comecei a trabalhar como desenvolvedor Full Stack freelance, onde desenvolvi o sistema da Escola Rondon, com as tecnologias HTML, CSS, SASS, Bootstrap, Javascript, NodeJS, MongoDB e MySQL. Atualmente tenho me centrado em Java, Spring Boot, React e Python. Sou apaixonado por Tecnologia e não me vejo fazendo outra coisa.
 </p>
 </div>
 
