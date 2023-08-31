@@ -39,7 +39,7 @@
 <p align="justify">
 📚 "Eu nunca perco. Ou eu ganho, ou aprendo." - Nelson Mandela
 
-Meu início profissional na tecnologia foi como instrutor de informática, posteriormente TI, sou formado em Análise e Desenvolvimento de Sistemas, pós-graduado em Segurança da Informação. Como instrutor e TI já trabalhei com PHP, Mysql, PostgreSQL, Java, HTML, CSS, Redes, Windows Server. Em 2021 comecei a trabalhar como desenvolvedor Full Stack freelance, onde desenvolvi o sistema da Escola Rondon, com as tecnologias HTML, CSS, SASS, Bootstrap, Javascript, NodeJS, MongoDB e MySQL. Atualmente tenho me centrado em Java, Spring Boot, React e Python. Sou apaixonado por Tecnologia e não me vejo fazendo outra coisa.
+Meu início profissional na tecnologia foi como instrutor de informática, posteriormente TI, sou formado em Análise e Desenvolvimento de Sistemas, pós-graduado em Segurança da Informação. Como instrutor e TI já trabalhei com PHP, Mysql, PostgreSQL, Java, HTML, CSS, Redes, Windows Server. Em 2021 comecei a trabalhar como desenvolvedor Full Stack freelance, onde desenvolvi o sistema da Escola Rondon, com as tecnologias Java, Spring Boot, HTML, CSS, SASS, Bootstrap, Javascript, NodeJS, MongoDB e MySQL. Atualmente me encantei com Flutter e estou mergulhando na área multiplataforma com tudo. Sou apaixonado por Tecnologia e não me vejo fazendo outra coisa.
 </p>
 </div>
 
@@ -49,6 +49,8 @@ Meu início profissional na tecnologia foi como instrutor de informática, poste
 
 ## 🛠 &nbsp;Tech Stack
 
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white)&nbsp;
+![Dart]https://img.shields.io/badge/dart-%230175C2?style=flat&logo=dart&logoColor=white)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=CoffeeScript)&nbsp;
 ![SpringBoot](https://img.shields.io/badge/-SpringBoot-05122A?style=flat&logo=springboot)&nbsp;
 ![Node](https://img.shields.io/badge/-Node-05122A?style=flat&logo=node.js)&nbsp;
