@@ -39,7 +39,7 @@
 <p align="justify">
 📚 "Eu nunca perco. Ou eu ganho, ou aprendo." - Nelson Mandela
 
-Meu início profissional na tecnologia foi como instrutor de informática, posteriormente TI, sou formado em Análise e Desenvolvimento de Sistemas, pós-graduado em Segurança da Informação. Como instrutor e TI já trabalhei com Java, Spring Boot, PHP, Mysql, PostgreSQL, HTML, CSS, Redes, Windows Server. Em 2021 comecei a trabalhar como desenvolvedor Full Stack freelance, onde desenvolvi o sistema da Escola Rondon, com as tecnologias HTML, CSS, SASS, Bootstrap, Javascript, NodeJS, MongoDB e MySQL. Entrando no mercado de Dados, estou cursando Agrocomputação, Python e R, além de ter curso de PowerBI. Sou apaixonado por Tecnologia e não me vejo fazendo outra coisa.
+Meu início profissional na tecnologia foi como instrutor de informática, posteriormente TI, sou formado em Análise e Desenvolvimento de Sistemas, pós-graduado em Segurança da Informação. Tenho conhecimento sólido em Infraestrutura de TI, onde está maior parte de minha experiência. Como instrutor já trabalhei com Java, Spring Boot, PHP, Mysql, PostgreSQL, HTML, CSS, Redes, Windows Server. Em 2021 comecei a trabalhar como desenvolvedor Full Stack freelance, onde desenvolvi o sistema da Escola Rondon, com as tecnologias HTML, CSS, SASS, Bootstrap, Javascript, NodeJS, MongoDB e MySQL. Entrando no mercado de Dados, estou cursando Agrocomputação, Python e R, além de ter curso de PowerBI. Sou apaixonado por Tecnologia e não me vejo fazendo outra coisa.
 </p>
 </div>
 
